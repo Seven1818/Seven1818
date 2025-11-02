@@ -4,7 +4,7 @@
 
 <h1 align="center">Hi there 👋, I'm Massimiliano</h1>
 <h3 align="center">CFD Engineer | Experimental Aerodynamics | Motorsport Enthusiast</h3>
----
+
 
 ### 🧑‍🔬 About Me
 - 🎓 MSc Mechanical Engineering @ TU Delft (Focus on CFD, Turbulence, Experimental Fluid Mechanics and Heat Transfer)
