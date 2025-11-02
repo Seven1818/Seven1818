@@ -32,7 +32,7 @@
   <rect width="1200" height="320" fill="url(#bg)"/>
 
   <!-- BACK STREAMLINES -->
-  <path class="stream dash" d="M -60 175 C 220 165, 420 85, 700 85 S 1120 160, 1260 120" />
+  <path class="stream dash" d="M -60 180 C 220 170, 420 90, 700 85 S 1120 170, 1260 140" />
   <path class="stream dash" d="M -60 205 C 160 200, 420 200, 700 200 S 1120 200, 1260 200" />
   <path class="stream dash" d="M -60 245 C 180 240, 440 240, 740 240 S 1140 240, 1260 240" />
 
