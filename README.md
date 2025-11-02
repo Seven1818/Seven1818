@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋, I'm Massimiliano</h1>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Seven1818/Seven1818/main/assets/header.svg?sanitize=true" width="100%" alt="Massimiliano — CFD & Aerodynamics banner">
+  <img src="./assets/header.svg?v=2" width="100%" alt="Massimiliano — CFD & Aerodynamics banner">
 </p>
 <h3 align="center">CFD Engineer | Experimental Aerodynamics | Motorsport Enthusiast</h3>
 
