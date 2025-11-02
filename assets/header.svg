@@ -49,6 +49,6 @@
   <!-- FRONT STREAMLINES -->
   <g filter="url(#ripples)">
     <path class="stream dash" d="M -60 125 C 240 115, 520 110, 600 115 S 980 120, 1260 110" />
-    <path class="stream dash" d="M -60 145 C 240 60, 520 90, 600 120 S 980 120, 1260 145" />
+    <path class="stream dash" d="M -60 145 C 240 115, 520 110, 600 115 S 980 120, 1260 110" />
   </g>
 </svg>
