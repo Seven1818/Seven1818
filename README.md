@@ -29,14 +29,6 @@
 
 ---
 
-### ⚡ GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Seven1818&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
-
----
-
 ### 🌍 Connect with Me
 <p align="center">
   <a href="https://www.linkedin.com/in/massimiliano-toffoli/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" /></a>
