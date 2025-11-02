@@ -1,8 +1,9 @@
 <p align="center">
   <img src="./assets/header.svg?v=2" width="100%" alt="Massimiliano — CFD & Aerodynamics banner">
 </p>
-<h3 align="center">CFD Engineer | Experimental Aerodynamics | Motorsport Enthusiast</h3>
+
 <h1 align="center">Hi there 👋, I'm Massimiliano</h1>
+<h3 align="center">CFD Engineer | Experimental Aerodynamics | Motorsport Enthusiast</h3>
 ---
 
 ### 🧑‍🔬 About Me
