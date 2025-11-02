@@ -34,7 +34,7 @@
   <!-- BACK STREAMLINES -->
   <path class="stream dash" d="M -60 105 C 220 100, 420 95, 700 93 S 1120 95, 1260 120" />
   <path class="stream dash" d="M -60 205 C 160 200, 420 200, 700 200 S 1120 220, 1260 200" />
-  <path class="stream dash" d="M -60 245 C 180 240, 440 240, 740 240 S 1140 230, 1260 210" />
+  <path class="stream dash" d="M -60 245 C 180 240, 440 240, 740 240 S 1140 230, 1260 230" />
 
   <!-- TITLE -->
   <g filter="url(#glow)">
