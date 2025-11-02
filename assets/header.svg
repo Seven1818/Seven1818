@@ -22,7 +22,7 @@
     <style>
       .stream { fill: none; stroke: #79c0ff; stroke-width: 1.8; opacity: 0.52; }
       .stream2 { fill: none; stroke: #7ee787; stroke-width: 1.2; opacity: 0.35; }
-      .dash { stroke-dasharray: none; animation: flow 7s linear infinite; }
+      .dash { stroke-dasharray: 6 10; animation: flow 7s linear infinite; }
       .dash2 { stroke-dasharray: 4 12; animation: flow 9s linear infinite reverse; }
       @keyframes flow { to { stroke-dashoffset: -1000; } }
       text { font-family: 'Segoe UI', Inter, system-ui, -apple-system; }
