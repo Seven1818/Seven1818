@@ -1,4 +1,52 @@
 ## Hi there 👋
+<h1 align="center">Hi there 👋, I'm Massimiliano</h1>
+<h3 align="center">CFD Engineer | Experimental Aerodynamics | Motorsport Enthusiast</h3>
+
+---
+
+### 🧑‍🔬 About Me
+- 🎓 MSc Mechanical Engineering @ TU Delft (Flow, Energy & Process Technology)
+- 🧭 Currently interning at **Dallara Automobili** in Experimental Aerodynamics
+- 💡 Interested in **CFD, wind tunnel correlation, and race car aerodynamics**
+- 🏎️ Passionate about combining simulation and experimental validation for motorsports innovation
+
+---
+
+### 🛠️ Tools & Skills
+**Programming:** Python, MATLAB, Fortran, C++
+**Simulation:** OpenFOAM, ANSYS Fluent, Star CCM+
+**Post-Processing:** ParaView, Matplotlib, Pandas, NumPy  
+**Other:** Git, LaTeX, SolidWorks  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Seven1818&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+---
+
+### 🧩 Featured Projects
+
+---
+
+### ⚡ GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Seven1818&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+</p>
+
+---
+
+### 🌍 Connect with Me
+<p align="center">
+  <a href="https://www.linkedin.com/in/massimiliano-rossini"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:massimiliano@example.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" /></a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Seven1818&label=Profile%20views&color=blueviolet&style=flat" alt="profile views" />
+</p>
 
 <!--
 **Seven1818/Seven1818** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
