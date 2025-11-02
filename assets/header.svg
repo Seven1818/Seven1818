@@ -1,0 +1,54 @@
+<svg width="1200" height="320" viewBox="0 0 1200 320" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Massimiliano — CFD & Aerodynamics">
+  <defs>
+    <!-- soft dark gradient -->
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0b1220"/>
+      <stop offset="100%" stop-color="#111a2e"/>
+    </linearGradient>
+
+    <!-- glow for text -->
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="2" result="coloredBlur"/>
+      <feMerge>
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <!-- airflow stroke styles -->
+    <style>
+      .stream { fill: none; stroke: #79c0ff; stroke-width: 1.8; opacity: 0.5; }
+      .stream2 { fill: none; stroke: #7ee787; stroke-width: 1.2; opacity: 0.35; }
+      .dash {
+        stroke-dasharray: 6 10;
+        animation: flow 7s linear infinite;
+      }
+      .dash2 {
+        stroke-dasharray: 4 12;
+        animation: flow 9s linear infinite reverse;
+      }
+      @keyframes flow {
+        to { stroke-dashoffset: -1000; }
+      }
+    </style>
+  </defs>
+
+  <!-- background -->
+  <rect width="1200" height="320" fill="url(#bg)"/>
+
+  <!-- airflow curves (subtle parabolic/Bezier paths) -->
+  <path class="stream dash" d="M -50 100 C 200 60, 420 140, 700 110 S 1150 80, 1250 120" />
+  <path class="stream dash" d="M -50 140 C 180 120, 420 180, 680 150 S 1120 130, 1250 160" />
+  <path class="stream2 dash2" d="M -50 190 C 160 210, 400 190, 680 210 S 1120 230, 1250 200" />
+  <path class="stream2 dash2" d="M -50 230 C 160 260, 420 230, 720 260 S 1120 270, 1250 240" />
+
+  <!-- title -->
+  <g filter="url(#glow)">
+    <text x="50%" y="145" text-anchor="middle" font-family="Segoe UI, Inter, system-ui, -apple-system" font-weight="800" font-size="52" fill="#e6edf3">
+      Massimiliano
+    </text>
+    <text x="50%" y="190" text-anchor="middle" font-family="Segoe UI, Inter, system-ui, -apple-system" font-weight="500" font-size="22" fill="#a5b5d1">
+      CFD & Aerodynamics — Simulation × Experimental Correlation
+    </text>
+  </g>
+</svg>
