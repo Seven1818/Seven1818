@@ -3,7 +3,6 @@
 </p>
 
 <h1 align="center">Hi there 👋, I'm Massimiliano</h1>
-<h3 align="center">CFD Engineer | Experimental Aerodynamics | Motorsport Enthusiast</h3>
 
 
 ### 🧑‍🔬 About Me
