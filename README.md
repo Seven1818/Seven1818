@@ -5,21 +5,21 @@
 <h1 align="center">Hi there 👋, I'm Massimiliano</h1>
 
 
-### 🧑‍🔬 About Me
-- 🎓 MSc Mechanical Engineering @ TU Delft (Focus on CFD, Turbulence, Experimental Fluid Mechanics and Heat Transfer)
-- 🧭 Currently interning at **Dallara Automobili** in Experimental Aerodynamics
-- 💡 Interested in **CFD, wind tunnel correlation, and race car aerodynamics**
-- 🏎️ Passionate about combining simulation and experimental validation for motorsports applications
+### About Me
+- MSc Mechanical Engineering @ TU Delft (Focus on CFD, Turbulence, Experimental Fluid Mechanics and Heat Transfer)
+- Currently interning at **Dallara Automobili** in Experimental Aerodynamics
+- Interested in **CFD, wind tunnel correlation, and race car aerodynamics**
+- Passionate about combining simulation and experimental validation for motorsports applications
 
 ---
-### 🌍 Connect with Me
+### Connect with Me
 <p align="center">
   <a href="https://www.linkedin.com/in/massimiliano-toffoli/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" /></a>
 </p>
 
 
 
-### 🛠️ Tools & Skills
+### Tools & Skills
 **Programming:** Python, MATLAB, Fortran, C++
 **Simulation:** OpenFOAM, ANSYS Fluent, Star CCM+
 **Post-Processing:** ParaView, Matplotlib, Pandas, NumPy  
@@ -31,7 +31,7 @@
 
 ---
 
-### 🧩 Featured Projects
+### Featured Projects
 
 #### **Wind Tunnel Wheel-lift forces tool** *(Dallara — proprietary work)*
 Ongoing development of in-house tools for measuring aerodynamic vertical forces on wheels in the wind tunnel without using wheel-pads.
