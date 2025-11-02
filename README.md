@@ -37,7 +37,7 @@
 Ongoing development of in-house tools for measuring aerodynamic vertical forces on wheels in the wind tunnel without using wheel-pads.
 **Tools:** Python, NumPy, Matplotlib, scikit-learn
 
-#### **CFD cooling simulations ** *(DeepDrive — proprietary work)*
+#### **CFD cooling simulations** *(DeepDrive — proprietary work)*
 Conducted CFD simulations of air gap friction and heat transfer in high‑speed dual‑rotor electrical machines. Optimization of axial air flow in rotating electrical machines.
 **Tools:** Ansys Fluent, Python, Linux.
 
