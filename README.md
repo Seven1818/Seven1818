@@ -7,8 +7,8 @@
 
 ### About Me
 - MSc Mechanical Engineering @ TU Delft (Focus on CFD, Turbulence, Experimental Fluid Mechanics and Heat Transfer)
-- Interested in **CFD, wind tunnel correlation, and race car aerodynamics**
-- Passionate about combining simulation and experimental validation for motorsports applications
+- Interested in **CFD, wind tunnel testing, and aerodynamics**
+- CFD engineer and aerodynamicist with industry experience at Dallara and DeepDrive. Currently developing novel OpenFOAM aero-thermal methodologies at TU Delft.
 
 ---
 ### Connect with Me
@@ -58,17 +58,4 @@ Term paper focused on the optimisation of a new endplate, part of my new rear wi
   <img src="https://komarev.com/ghpvc/?username=Seven1818&label=Profile%20views&color=blueviolet&style=flat" alt="profile views" />
 </p>
 
-<!--
-**Seven1818/Seven1818** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
