@@ -7,7 +7,6 @@
 
 ### About Me
 - MSc Mechanical Engineering @ TU Delft (Focus on CFD, Turbulence, Experimental Fluid Mechanics and Heat Transfer)
-- Currently interning at **Dallara Automobili** in Experimental Aerodynamics
 - Interested in **CFD, wind tunnel correlation, and race car aerodynamics**
 - Passionate about combining simulation and experimental validation for motorsports applications
 
