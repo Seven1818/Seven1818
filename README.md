@@ -22,7 +22,7 @@
 **Programming:** Python, MATLAB, Fortran, C++
 **Simulation:** OpenFOAM, ANSYS Fluent, Star CCM+
 **Post-Processing:** ParaView, Matplotlib, Pandas, NumPy  
-**Other:** CATIA V5, Siemens NX, SolidWorks, Inventor, Git, LaTeX
+**CAD:** CATIA V5, Siemens NX, SolidWorks, Inventor
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Seven1818&layout=compact&theme=tokyonight" alt="Top Languages" />
